@@ -1,0 +1,8 @@
+<gs:GlobalizationServices xmlns:gs="urn:longhornGlobalizationUnattend">
+    <gs:UserList>
+        <gs:User UserID="Current"/>
+    </gs:UserList>
+    <gs:InputPreferences>
+        <gs:InputLanguageID Action="remove" ID="0407:00000407"/>
+    </gs:InputPreferences>
+</gs:GlobalizationServices>
